@@ -57,7 +57,7 @@
 								<div class="card-front" style=" height: 600px;">
 									<div class="center-wrap">
 										<div class="section text-center">
-											<h4 class="mb-4 pb-3">Log In</h4>
+											<h4 class="mb-4 pb- 3">Log In</h4>
 											<form action="login.do" method="post">
 											<div class="form-group">
 												<input type="email" name="logemail" class="form-style" placeholder="Your Email" id="logemail" autocomplete="off">
